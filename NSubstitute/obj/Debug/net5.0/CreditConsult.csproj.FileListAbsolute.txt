@@ -1,0 +1,12 @@
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\bin\Debug\net5.0\CreditConsult.deps.json
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\bin\Debug\net5.0\CreditConsult.dll
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\bin\Debug\net5.0\ref\CreditConsult.dll
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\bin\Debug\net5.0\CreditConsult.pdb
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.csprojAssemblyReference.cache
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.AssemblyInfoInputs.cache
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.AssemblyInfo.cs
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.csproj.CoreCompileInputs.cache
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.dll
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\ref\CreditConsult.dll
+C:\Users\grace.torres\source\repos\NSubstitute\NSubstitute\obj\Debug\net5.0\CreditConsult.pdb
