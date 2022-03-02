@@ -30,7 +30,7 @@ namespace CreditConsultTests
 
             Pendency pendency = new Pendency();
             pendency.CPF = CPF_DEFAULTER;
-            pendency.NamePerson = "Fulano";
+            pendency.NamePerson = "Beltrano";
             pendency.NameClaimant = "Casas Bahia";
             pendency.DeclarationPendency = "installment not paid";
             pendency.ValuePendency = 700;
